@@ -1,0 +1,19 @@
+/* Combinadores Hermanos adyacente o cercano
+h2 + p{
+    color: red;
+} */
+
+/* Combinadores Hermanos generales
+h2 ~ p{
+    color: blue;
+}  */
+
+/* Combinadores Hija directa
+div > p{
+    color: blueviolet;
+} */
+
+/* Combinadores Descendientes
+div p{
+    color: yellowgreen;
+} */
