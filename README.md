@@ -1,2 +1,1 @@
-# cursoplatzi
-Curso de Platzi (HTML/CSS)
+# Cursos Platzi
